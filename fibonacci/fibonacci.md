@@ -22,7 +22,7 @@ public static int fibonacci(int n) {
     if (n == 1) return 1;
     return fibonacci(n - 1) + fibonacci(n - 2);
 }
-
+```
 📁 Project Structure
 java/: Contains the Java implementation of the Fibonacci problem using recursion.
 python/: Contains the Python implementation of the Fibonacci problem using recursion.
