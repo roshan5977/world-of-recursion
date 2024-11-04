@@ -1,4 +1,5 @@
-package world_of_recursion.subset;
+package subset;
+
 //78: Leetcode
 public class Subsets {
     public static void main(String[] args) {

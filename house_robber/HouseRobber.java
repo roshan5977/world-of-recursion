@@ -1,4 +1,3 @@
-package world_of_recursion.house_robber;
 
 //198: LeetCode
 
