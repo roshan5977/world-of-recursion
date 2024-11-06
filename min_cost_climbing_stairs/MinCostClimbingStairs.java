@@ -1,4 +1,3 @@
-package world_of_recursion.min_cost_climbing_stairs;
 
 public class MinCostClimbingStairs {
     public static void main(String[] args) {

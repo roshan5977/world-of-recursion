@@ -1,4 +1,3 @@
-package world_of_recursion.house_robber2;
 //213: leetcode ..
 public class HouseRobberCircular {
     public static void main(String[] args) {

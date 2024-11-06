@@ -12,11 +12,6 @@ public class Subsets {
 
     private static int[][] helper(int[] inputArr, int[] outputArr, int i) {
 
-
-        
-
-
-
     }
     
 }
